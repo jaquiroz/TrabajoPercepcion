@@ -1,0 +1,2 @@
+trabajo_final
+-DCATKIN_DEVEL_PREFIX=/home/jaquiroz/perception_ws/devel -DCMAKE_INSTALL_PREFIX=/home/jaquiroz/perception_ws/install -G Unix Makefiles

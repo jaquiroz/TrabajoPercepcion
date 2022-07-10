@@ -1,0 +1,8 @@
+prefix=/home/jaquiroz/perception_ws/devel
+
+Name: trabajo_final
+Description: Description of trabajo_final
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
