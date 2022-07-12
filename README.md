@@ -1,5 +1,5 @@
 # TrabajoPercepcion
-El presente trabajo se realizo con motivo de proyecto final de modulo de percepcion, correspondiente al Diplomado en Robotica dictado en la Universidad Catolica BolivianaSan Pablo
+El presente trabajo se realizo con motivo de proyecto final de modulo de percepcion, correspondiente al Diplomado en Robotica dictado en la Universidad Catolica Boliviana San Pablo
 
 # Resumen
 El proyecto consiste en detectar grietas presentes en las paredes mediante el uso de equalizacion de histograma adaptativo (CLAHE) y difentes fltros de paso alto. La equalizacion de histograma consiste en tratar de equilibrar los valores altos presentes en la distribucion de pixeles, en el caso se aplico este metodo ya que tenia mejor resultado mejorando el contraste y brillo, en comparacion de la equalizacion tradicional. La etapa de filtrado presenta la conjuncion de dos filtros orientados a la deteccion de bordes como son el filtro canny y el filtro laplaciano. Para la eliminacion del background presente en las imagenes se procedio a utilizar un threshold adaptativo el cual conjunciona los threshold de la media y la binarzacion inversa. La ultima etapa realizada fue la aplicacion de un algorimtmo morfologico, en este caso fue aplicado la operacion de opening el cual aplica los de erosion y dilatacion.
