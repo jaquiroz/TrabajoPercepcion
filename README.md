@@ -49,7 +49,7 @@ A continuacion se presentan los resultados de las diferentes etapas de procesami
 - ![Aplicacion del algoritmo morfologico de Opening](https://github.com/jaquiroz/TrabajoPercepcion/tree/main/src/trabajo_final/Imagenes/6.png)
 
 # Conclusiones
-- Para obtener mejores resultados es preferible tener a disposicion una cmaara con buena resolucion, para evitar el desenfoque o la inclusion de ruido.
+- Para obtener mejores resultados es preferible tener a disposicion una camara con buena resolucion, para evitar el desenfoque o la inclusion de ruido.
 - La iluminacion es un factor de relevancia debido a que genera una desbalance al momento de realizar el proceso de equalizacion.
 - Para mejores resultados es preferible utilizar filtros nmo lineles con el tradeoff de aumentar el poder computo. 
     
